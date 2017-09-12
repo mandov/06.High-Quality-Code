@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Telerik\06.High-Quality-Code\01.Code-Formatting\02.Code-Formatting\01.FormattingCSharp\bin\Debug\01.FormattingCSharp.exe.config
+C:\Users\Gabriel\Desktop\Telerik\06.High-Quality-Code\01.Code-Formatting\02.Code-Formatting\01.FormattingCSharp\bin\Debug\01.FormattingCSharp.exe
+C:\Users\Gabriel\Desktop\Telerik\06.High-Quality-Code\01.Code-Formatting\02.Code-Formatting\01.FormattingCSharp\bin\Debug\01.FormattingCSharp.pdb
+C:\Users\Gabriel\Desktop\Telerik\06.High-Quality-Code\01.Code-Formatting\02.Code-Formatting\01.FormattingCSharp\obj\Debug\01.FormattingCSharpBunny.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\06.High-Quality-Code\01.Code-Formatting\02.Code-Formatting\01.FormattingCSharp\obj\Debug\01.FormattingCSharp.exe
+C:\Users\Gabriel\Desktop\Telerik\06.High-Quality-Code\01.Code-Formatting\02.Code-Formatting\01.FormattingCSharp\obj\Debug\01.FormattingCSharp.pdb
