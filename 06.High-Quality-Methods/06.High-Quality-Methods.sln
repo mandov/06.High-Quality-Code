@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.QualityMethods", "01.QualityMethods\01.QualityMethods.csproj", "{1F091E57-59A2-4850-B560-A64F22B6EAC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp Advanced Exam", "CSharp Advanced Exam", "{632FD16A-9D7F-49D7-9F73-02B982D0038E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QualityMethods", "QualityMethods", "{7938B8F0-C2DA-4AE3-854F-FFC392C873B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NumeralSystem", "01.SecretNumeralSystem\01.NumeralSystem.csproj", "{014A3B7D-7B3F-441B-BDD2-3F6F9A8DBA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EvenDifferences", "02.EvenDifferences\02.EvenDifferences.csproj", "{FD5B5543-FD96-4694-93CC-36ADB75A16F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SnackyTheSnake", "03.SnackyTheSnake\03.SnackyTheSnake.csproj", "{248C0758-1D61-4117-B517-E8887B75F985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F091E57-59A2-4850-B560-A64F22B6EAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F091E57-59A2-4850-B560-A64F22B6EAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F091E57-59A2-4850-B560-A64F22B6EAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F091E57-59A2-4850-B560-A64F22B6EAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014A3B7D-7B3F-441B-BDD2-3F6F9A8DBA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014A3B7D-7B3F-441B-BDD2-3F6F9A8DBA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014A3B7D-7B3F-441B-BDD2-3F6F9A8DBA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014A3B7D-7B3F-441B-BDD2-3F6F9A8DBA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5B5543-FD96-4694-93CC-36ADB75A16F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5B5543-FD96-4694-93CC-36ADB75A16F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5B5543-FD96-4694-93CC-36ADB75A16F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5B5543-FD96-4694-93CC-36ADB75A16F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248C0758-1D61-4117-B517-E8887B75F985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248C0758-1D61-4117-B517-E8887B75F985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248C0758-1D61-4117-B517-E8887B75F985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248C0758-1D61-4117-B517-E8887B75F985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F091E57-59A2-4850-B560-A64F22B6EAC7} = {7938B8F0-C2DA-4AE3-854F-FFC392C873B3}
+		{014A3B7D-7B3F-441B-BDD2-3F6F9A8DBA18} = {632FD16A-9D7F-49D7-9F73-02B982D0038E}
+		{FD5B5543-FD96-4694-93CC-36ADB75A16F5} = {632FD16A-9D7F-49D7-9F73-02B982D0038E}
+		{248C0758-1D61-4117-B517-E8887B75F985} = {632FD16A-9D7F-49D7-9F73-02B982D0038E}
+	EndGlobalSection
+EndGlobal
