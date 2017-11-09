@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="4e2abd99-f0c7-4c40-b9ce-93f176e76209" Title="CodeDocumentation" Url="html/f4ed9982-e7c0-19ea-a657-07e31c585931.htm">
+    <HelpTOCNode Id="a86b8bfd-16e0-42e7-b984-cce13ab8ee0f" Title="StringExtensions Class" Url="html/d3669e0d-d9c2-a70b-5a1a-3b21835fd9d8.htm">
+      <HelpTOCNode Id="b2a92bb2-04f2-473a-a17c-7dd163fd4954" Title="StringExtensions Methods" Url="html/d2b16bb1-ed3e-183a-1b91-7373969ce4a0.htm">
+        <HelpTOCNode Title="CapitalizeFirstLetter Method " Url="html/d17969a5-f966-3021-ff83-3c04929b226e.htm" />
+        <HelpTOCNode Title="ConvertCyrillicToLatinLetters Method " Url="html/8e14c7e9-9828-b080-1319-376cd47a620d.htm" />
+        <HelpTOCNode Title="ConvertLatinToCyrillicKeyboard Method " Url="html/c80b71bb-dd3b-7b39-d17f-b65e11b93abf.htm" />
+        <HelpTOCNode Title="GetFileExtension Method " Url="html/d17314dc-c563-35d6-c24c-eb39677e11ea.htm" />
+        <HelpTOCNode Title="GetFirstCharacters Method " Url="html/66c5e896-6158-852f-7bb1-912b16276d4d.htm" />
+        <HelpTOCNode Title="GetStringBetween Method " Url="html/7a761aa4-da60-0e9e-f9a8-d2b8fbdec53e.htm" />
+        <HelpTOCNode Title="ToBoolean Method " Url="html/84e390d5-0102-af3f-99f4-2e2c08d8ae51.htm" />
+        <HelpTOCNode Title="ToByteArray Method " Url="html/a2ac290f-450a-536e-8f74-2a55eb56b1b9.htm" />
+        <HelpTOCNode Title="ToContentType Method " Url="html/abc9fe17-81a4-a8c9-5021-a777c1e3a703.htm" />
+        <HelpTOCNode Title="ToDateTime Method " Url="html/5afc786b-4e06-276b-546c-309d3a4e941f.htm" />
+        <HelpTOCNode Title="ToInteger Method " Url="html/3464c361-dac3-d0b8-b31d-eb555a244d6f.htm" />
+        <HelpTOCNode Title="ToLong Method " Url="html/39283ddc-8164-5f83-1a54-02c6a4f7060d.htm" />
+        <HelpTOCNode Title="ToMd5Hash Method " Url="html/187d4439-bf41-2925-e33f-22d0fb918423.htm" />
+        <HelpTOCNode Title="ToShort Method " Url="html/8e78e962-fa9f-ae2e-b5e4-04f5fc0821d6.htm" />
+        <HelpTOCNode Title="ToValidLatinFileName Method " Url="html/5287f0de-e246-12d8-b28c-20c418ef640b.htm" />
+        <HelpTOCNode Title="ToValidUsername Method " Url="html/1698c02d-feaf-e859-62fe-b638680b72ae.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
